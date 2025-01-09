@@ -1,0 +1,8 @@
+{
+  "Python": {
+         "Path": "/etc/orthanc/handlers.py",
+         "Verbose": true,
+         "DisplayMemoryUsage": true,
+         "AllowThreads": true
+    }
+}
